@@ -9,3 +9,5 @@ Example scripts to obtain and calculate mechanical material properties and tools
   - scaling
   
 - PIV_processing_tools
+  - DIC_data_visualisation
+  - DVC_data_visualisation
